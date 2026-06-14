@@ -11,6 +11,10 @@ The RGB Color Swapper can swap the channels so that the colors are displayed cor
 
 ![fixed colors](/doc/swapped.png)
 
+## System requirements
+
+* Windows 10, 11
+
 ## Usage
 
 * Drag&Drop files into the main window (or use the menu)
